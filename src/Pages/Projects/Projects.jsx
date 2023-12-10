@@ -1,6 +1,5 @@
-import { Button, Carousel } from "flowbite-react";
+import { Carousel } from "flowbite-react";
 import Headings from "../../Components/Shared/Headings/Headings";
-import { Link, Navigate } from "react-router-dom";
 
 
 const Projects = () => {
