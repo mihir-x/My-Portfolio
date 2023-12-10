@@ -14,7 +14,7 @@ const MenuBar = () => {
     </>
 
     return (
-        <Navbar fluid rounded>
+        <Navbar fluid rounded className="shadow-lg">
             <Navbar.Brand href="">
                 <Avatar alt="Profile Picture" img="https://i.ibb.co/xSPstNc/117906972-3169262489787483-6576742553123866123-n.jpg" rounded />
                 <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">MIHIR HASAN</span>
