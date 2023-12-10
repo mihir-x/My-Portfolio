@@ -6,11 +6,11 @@ const MenuBar = () => {
 
     const navLinks = <>
         <NavLink to='/' className={({ isActive }) => isActive ? ' font-bold underline text-green-500 ' : ''}>Home</NavLink>
-        <NavLink to='' className={({ isActive }) => isActive ? ' font-bold underline text-green-500 ' : ''}>Projects</NavLink>
-        <NavLink to='' className={({ isActive }) => isActive ? ' font-bold underline text-green-500 ' : ''}>Skills</NavLink>
-        <NavLink to='' className={({ isActive }) => isActive ? ' font-bold underline text-green-500 ' : ''}>Resume</NavLink>
-        <NavLink to='' className={({ isActive }) => isActive ? ' font-bold underline text-green-500 ' : ''}>About Myself</NavLink>
-        <NavLink to='' className={({ isActive }) => isActive ? ' font-bold underline text-green-500 ' : ''}>Contact Me</NavLink>
+        <NavLink to='/projects' className={({ isActive }) => isActive ? ' font-bold underline text-green-500 ' : ''}>Projects</NavLink>
+        <NavLink to='/skills' className={({ isActive }) => isActive ? ' font-bold underline text-green-500 ' : ''}>Skills</NavLink>
+        <NavLink to='/resume' className={({ isActive }) => isActive ? ' font-bold underline text-green-500 ' : ''}>Resume</NavLink>
+        <NavLink to='/about' className={({ isActive }) => isActive ? ' font-bold underline text-green-500 ' : ''}>About Myself</NavLink>
+        <NavLink to='/contact' className={({ isActive }) => isActive ? ' font-bold underline text-green-500 ' : ''}>Contact Me</NavLink>
     </>
 
     return (
