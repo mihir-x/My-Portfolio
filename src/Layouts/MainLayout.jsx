@@ -5,9 +5,11 @@ import SiteFooter from "../Components/Footer/SiteFooter";
 
 const MainLayout = () => {
     return (
-        <div className="min-h-screen flex flex-col justify-between">
+        <div className="">
             <MenuBar></MenuBar>
-            <Outlet></Outlet>
+            <div className="min-h-screen">
+                <Outlet></Outlet>
+            </div>
             <SiteFooter></SiteFooter>
         </div>
     );
