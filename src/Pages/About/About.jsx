@@ -5,34 +5,7 @@ const About = () => {
     return (
         <div className=" max-w-screen-lg mx-auto">
             <Card className="">
-                {/* <div className="flex justify-end px-4 pt-4">
-                    <Dropdown inline label="">
-                        <Dropdown.Item>
-                            <a
-                                href="#"
-                                className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
-                            >
-                                Edit
-                            </a>
-                        </Dropdown.Item>
-                        <Dropdown.Item>
-                            <a
-                                href="#"
-                                className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
-                            >
-                                Export Data
-                            </a>
-                        </Dropdown.Item>
-                        <Dropdown.Item>
-                            <a
-                                href="#"
-                                className="block px-4 py-2 text-sm text-red-600 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
-                            >
-                                Delete
-                            </a>
-                        </Dropdown.Item>
-                    </Dropdown>
-                </div> */}
+                
                 <div className="flex flex-col items-center pb-10">
                     <img
                         alt="Bonnie image"
@@ -45,6 +18,7 @@ const About = () => {
                     <span className="text-sm text-gray-500 dark:text-gray-400">Web Developer</span>
                     <div className=" max-w-lg text-center my-5 md:my-10">
                         <p className=" text-gray-600">Hi, I am Mihir Hasan. I&apos;ve come from a small village named Sheikhpara. I am a Frontend Web Developer. I like to code and love to read. </p>
+                        <p><span className=" font-bold">Contact Info:</span> mihirhx@gmail.com</p>
                     </div>
                     <div className="mt-4 flex flex-col md:flex-row md:gap-20 lg:mt-6">
                         <div className="flex-1 border-r-2">
