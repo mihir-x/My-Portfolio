@@ -15,7 +15,7 @@ const Projects = () => {
                         <p className="max-w-xl mx-auto mt-2">MediVoyage is a service based website where different types of medical camp can be added by the organizer and participant can join by paying for the camp using stripe payment gateway</p>
                         <div className="flex gap-8 justify-center my-1 md:my-4">
                             <a href="https://github.com/mihir-x/medical-camp-management-project" className="btn">GitHub Link</a>
-                            <a href="https://gorgeous-kitten-b026ab.netlify.app" className="btn">Live Link</a>
+                            <a href="https://luminous-sherbet-6eb0c1.netlify.app" className="btn">Live Link</a>
                         </div>
                     </div>
                     <div className="h-56 sm:h-64 xl:h-80 2xl:h-96 mt-2 p-5">

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "React",
+    "image": "/src/assets/images/tech/react.png"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript",
+    "image": "/src/assets/images/tech/js.png"
+  },
+  {
+    "id": 3,
+    "title": "Tailwind CSS",
+    "image": "/src/assets/images/tech/tail.png"
+  },
+  {
+    "id": 4,
+    "title": "HTML5",
+    "image": "/src/assets/images/tech/html.png"
+  },
+  {
+    "id": 5,
+    "title": "CSS3",
+    "image": "/src/assets/images/tech/css.png"
+  },
+  {
+    "id": 6,
+    "title": "Firebase",
+    "image": "/src/assets/images/tech/fire.png"
+  },
+  {
+    "id": 7,
+    "title": "MongoDB",
+    "image": "/src/assets/images/tech/mongo.png"
+  },
+  {
+    "id": 8,
+    "title": "Express.js",
+    "image": "/src/assets/images/tech/ex.png"
+  },
+  {
+    "id": 9,
+    "title": "Node.js",
+    "image": "/src/assets/images/tech/node.png"
+  }
+]
