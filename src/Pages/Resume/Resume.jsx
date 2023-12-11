@@ -64,7 +64,7 @@ const Resume = () => {
                         <h1 className=" text-lg md:text-xl font-bold mb-2">Medical Camp Management</h1>
                         <a href="https://github.com/mihir-x/medical-camp-management-project" className="text-white p-1 rounded-md bg-gray-500">GitHub Link</a>
                         <a href="https://luminous-sherbet-6eb0c1.netlify.app" className="text-white p-1 rounded-md bg-gray-500 ml-5">Live Link</a>
-                        <p className="font-bold">Features:</p>
+                        <p className="font-bold mt-3">Features:</p>
                         <ul className="list-disc p-2">
                             <li>Database integration with mongoDB</li>
                             <li>Payment system integration with stripe.js</li>
@@ -75,7 +75,7 @@ const Resume = () => {
                         <h1 className=" text-lg md:text-xl font-bold mb-2">Blog Hub</h1>
                         <a href="https://github.com/mihir-x/my-blog-website-assignment" className="text-white p-1 rounded-md bg-gray-500">GitHub Link</a>
                         <a href="https://gorgeous-kitten-b026ab.netlify.app" className="text-white p-1 rounded-md bg-gray-500 ml-5">Live Link</a>
-                        <p className="font-bold">Features:</p>
+                        <p className="font-bold mt-3">Features:</p>
                         <ul className="list-disc p-2">
                             <li>Database integration with mongoDB</li>
                             <li>Can add, update blog and post comment</li>
@@ -86,7 +86,7 @@ const Resume = () => {
                         <h1 className=" text-lg md:text-xl font-bold mb-2">Brand Shop</h1>
                         <a href="https://github.com/mihir-x/automotive-brand-shop-project" className="text-white p-1 rounded-md bg-gray-500">GitHub Link</a>
                         <a href="https://celadon-croissant-bebbb3.netlify.app" className="text-white p-1 rounded-md bg-gray-500 ml-5">Live Link</a>
-                        <p className="font-bold">Features:</p>
+                        <p className="font-bold mt-3">Features:</p>
                         <ul className="list-disc p-2">
                             <li>Database integration with mongoDB</li>
                             <li>Dark/light theme integration on homepage</li>
