@@ -37,35 +37,36 @@ const MenuBar = () => {
     //         console.error('Error downloading PDF:', error);
     //     }
     // };
-    const handleDownload = () => {
-        // fetch("https://drive.google.com/file/d/1eTSxEW6aydo-nA-AdJZ4dpoXnl7-6_pz/view").then((response) => {
-        //     response.blob().then((blob) => {
+    // const handleDownload = () => {
+    //     fetch("https://drive.google.com/uc?export=download&id=1eTSxEW6aydo-nA-AdJZ4dpoXnl7-6_pz").then((response) => {
+    //         response.blob().then((blob) => {
 
-        //         // Creating new object of PDF file
-        //         const fileURL =
-        //             window.URL.createObjectURL(blob);
+    //             // Creating new object of PDF file
+    //             const fileURL =
+    //                 window.URL.createObjectURL(blob);
 
-        //         // Setting various property values
-        //         let alink = document.createElement("a");
-        //         alink.href = fileURL;
-        //         alink.download = "SamplePDF.pdf";
-        //         alink.click();
-        //     });
-        // });
-        const pdfPath = '/public/resume.pdf';
+    //             // Setting various property values
+    //             let alink = document.createElement("a");
+    //             alink.href = fileURL;
+    //             alink.download = "resume.pdf";
+    //             alink.click();
+    //         });
+    //     });
 
-        // Create an anchor element
-        const anchor = document.createElement('a');
+        // const pdfPath = '/public/resume.pdf';
+
+        // // Create an anchor element
+        // const anchor = document.createElement('a');
     
-        // Set the href attribute to the path of the PDF file
-        anchor.href = pdfPath;
+        // // Set the href attribute to the path of the PDF file
+        // anchor.href = pdfPath;
     
-        // Set the download attribute to specify the desired file name
-        anchor.download = 'sample.pdf';
+        // // Set the download attribute to specify the desired file name
+        // anchor.download = 'sample.pdf';
     
-        // Simulate a click on the anchor element to trigger the download
-        anchor.click();
-    }
+        // // Simulate a click on the anchor element to trigger the download
+        // anchor.click();
+    // }
 
     return (
         <Navbar fluid rounded className="shadow-lg">
@@ -74,9 +75,8 @@ const MenuBar = () => {
                 <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">MIHIR HASAN</span>
             </Navbar.Brand>
             <div className="flex md:order-2">
-                {/* <Button>Download Resume</Button> */}
-                <Button onClick={handleDownload}>Download Resume</Button>
-                {/* <a href="/Mihir_Hasan.pdf" download='mihir.pdf'>Download Resume</a> */}
+                <Button><a href="https://drive.google.com/uc?export=download&id=1eTSxEW6aydo-nA-AdJZ4dpoXnl7-6_pz" download='mihir.pdf'>Download Resume</a></Button>
+                
                 <Navbar.Toggle />
             </div>
             <Navbar.Collapse>
