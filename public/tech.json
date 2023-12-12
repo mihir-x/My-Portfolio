@@ -2,46 +2,46 @@
   {
     "id": 1,
     "title": "React",
-    "image": "/src/assets/images/tech/react.png"
+    "image": "https://starlit-pony-b33339.netlify.app/react.png"
   },
   {
     "id": 2,
     "title": "JavaScript",
-    "image": "/src/assets/images/tech/js.png"
+    "image": "https://starlit-pony-b33339.netlify.app/js.png"
   },
   {
     "id": 3,
     "title": "Tailwind CSS",
-    "image": "/src/assets/images/tech/tail.png"
+    "image": "https://starlit-pony-b33339.netlify.app/tail.png"
   },
   {
     "id": 4,
     "title": "HTML5",
-    "image": "/src/assets/images/tech/html.png"
+    "image": "https://starlit-pony-b33339.netlify.app/html.png"
   },
   {
     "id": 5,
     "title": "CSS3",
-    "image": "/src/assets/images/tech/css.png"
+    "image": "https://starlit-pony-b33339.netlify.app/css.png"
   },
   {
     "id": 6,
     "title": "Firebase",
-    "image": "/src/assets/images/tech/fire.png"
+    "image": "https://starlit-pony-b33339.netlify.app/fire.png"
   },
   {
     "id": 7,
     "title": "MongoDB",
-    "image": "/src/assets/images/tech/mongo.png"
+    "image": "https://starlit-pony-b33339.netlify.app/mongo.png"
   },
   {
     "id": 8,
     "title": "Express.js",
-    "image": "/src/assets/images/tech/ex.png"
+    "image": "https://starlit-pony-b33339.netlify.app/ex.png"
   },
   {
     "id": 9,
     "title": "Node.js",
-    "image": "/src/assets/images/tech/node.png"
+    "image": "https://starlit-pony-b33339.netlify.app/node.png"
   }
 ]

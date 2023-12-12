@@ -7,8 +7,9 @@ import { Progress } from "flowbite-react";
 const Skills = () => {
     const [skills, setSkills] = useState([])
     useEffect(() => {
-        fetch('/public/tech.json').then(res => res.json()).then(data => setSkills(data))
+        fetch('https://starlit-pony-b33339.netlify.app/tech.json').then(res => res.json()).then(data => setSkills(data))
     }, [])
+    console.log(skills)
 
     return (
         <div className=" max-w-screen-lg mx-auto mb-5 md:mb-20">

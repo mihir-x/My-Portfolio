@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 
 
 const Home = () => {
@@ -8,8 +9,8 @@ const Home = () => {
                     <img src="https://i.ibb.co/9TRxMzm/mihir.png" className="max-w-sm rounded-lg hover:transform hover:scale-125 hover:duration-1000" />
                     <div>
                         <h1 className="text-5xl font-bold">Hi, This is <br /> MIHIR HASAN</h1>
-                        <p className="py-6">I am a web developer</p>
-                        <button className="btn btn-primary">Get Started</button>
+                        <p className="py-6">I am a web developer <br /> Waiting to collaborate with you in awesome projects <br />Feel free to contact me</p>
+                        <Link to='/contact'><button className="btn btn-primary">Contact Me</button></Link>
                     </div>
                 </div>
             </div>

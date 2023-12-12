@@ -10,7 +10,7 @@ const About = () => {
                     <img
                         alt="Bonnie image"
                         height="96"
-                        src='/public/photo.jpg'
+                        src='https://i.ibb.co/LxChR3s/photo.jpg'
                         width="96"
                         className="mb-3 rounded-full shadow-lg"
                     />

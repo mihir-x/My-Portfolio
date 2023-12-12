@@ -20,11 +20,11 @@ const Projects = () => {
                     </div>
                     <div className="h-56 sm:h-64 xl:h-80 2xl:h-96 mt-2 p-5">
                         <Carousel slideInterval={2000}>
-                            <img src="/src/assets/images/projects/medi1.PNG" alt="..." />
-                            <img src="/src/assets/images/projects/medi2.PNG" alt="..." />
-                            <img src="/src/assets/images/projects/medi3.PNG" alt="..." />
-                            <img src="/src/assets/images/projects/medi4.PNG" alt="..." />
-                            <img src="/src/assets/images/projects/medi5.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/medi1.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/medi2.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/medi3.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/medi4.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/medi5.PNG" alt="..." />
                         </Carousel>
                     </div>
                 </div>
@@ -39,11 +39,11 @@ const Projects = () => {
                     </div>
                     <div className="h-56 sm:h-64 xl:h-80 2xl:h-96 mt-2 p-5">
                         <Carousel slideInterval={2000}>
-                            <img src="/src/assets/images/projects/blog1.PNG" alt="..." />
-                            <img src="/src/assets/images/projects/blog2.PNG" alt="..." />
-                            <img src="/src/assets/images/projects/blog3.PNG" alt="..." />
-                            <img src="/src/assets/images/projects/blog4.PNG" alt="..." />
-                            <img src="/src/assets/images/projects/blog5.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/blog1.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/blog2.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/blog3.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/blog4.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/blog5.PNG" alt="..." />
                         </Carousel>
                     </div>
                 </div>
@@ -58,11 +58,11 @@ const Projects = () => {
                     </div>
                     <div className="h-56 sm:h-64 xl:h-80 2xl:h-96 mt-2 p-5">
                         <Carousel slideInterval={2000}>
-                            <img src="/src/assets/images/projects/brand1.PNG" alt="..." />
-                            <img src="/src/assets/images/projects/brand2.PNG" alt="..." />
-                            <img src="/src/assets/images/projects/brand3.PNG" alt="..." />
-                            <img src="/src/assets/images/projects/brand4.PNG" alt="..." />
-                            <img src="/src/assets/images/projects/brand5.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/brand1.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/brand2.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/brand3.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/brand4.PNG" alt="..." />
+                            <img src="https://starlit-pony-b33339.netlify.app/brand5.PNG" alt="..." />
                         </Carousel>
                     </div>
                 </div>
